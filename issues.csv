@@ -1,0 +1,29 @@
+#,Tracker,Status,Estimated time,Priority,Subject,Assignee,Updated
+1899,Task,In Progress,4.00,Normal,[Download Proxy] gather data,Alexander Krohn,03/21/2013 12:06 pm
+1871,Feature,New,24.00,Normal,"[LMS] Provisioning form: be able to provision in one form LDD, SIM, SmartCardReader","",03/20/2013 12:27 pm
+1857,Bug,New,4.00,Normal,Zoom buttons don???t work,Haiko Schol,03/20/2013 12:37 pm
+1856,Task,New,8.00,Normal,UI Design: Progress bar for login,Tobias Hellmann,03/20/2013 12:36 pm
+1854,Task,Closed,"",Normal,[Market Research] How does the Chromebook print?,"",03/20/2013 12:08 pm
+1853,Bug,New,8.00,Normal,Ribbon on My Cloud,Wilko Waitz,03/20/2013 12:31 pm
+1852,Task,New,"",Normal,Spell Checking in Word Web App,Wilko Waitz,03/11/2013 05:29 pm
+1851,Change Request,New,4.00,Normal,Sync link in My Cloud,Wilko Waitz,03/20/2013 12:34 pm
+1850,Bug,New,"",Normal,Lync performance,Wilko Waitz,03/21/2013 12:06 pm
+1848,Task,New,"",Normal,Sharing in new SharePoint,Wilko Waitz,03/11/2013 05:29 pm
+1838,Task,New,4.00,Normal,choose less ugly GTK theme,"",03/12/2013 03:12 pm
+1836,Bug,Resolved,2.00,Normal,[Settings] remove TrackPoint settings ,Haiko Schol,03/20/2013 05:22 pm
+1835,Bug,New,"",Low,iPhone tathering - cannot connect to the VPN,Uwe Doering,03/21/2013 12:06 pm
+1812,Task,In Progress,4.00,Normal,[LMS Infra] Firefox sync,Micha?? Adamski,03/21/2013 12:06 pm
+1805,Task,New,16.00,Normal,[USB] Filebrowser: file list - frontend,"",03/21/2013 12:06 pm
+1804,Task,New,8.00,Normal,[USB] Filebrowser: file grid,Haiko Schol,03/21/2013 12:06 pm
+1803,Task,In Progress,"",Normal,[USB] Filebrowser: folder / device navigation,"",03/21/2013 12:06 pm
+1797,Task,New,"",Normal,[SD-Card] find a sd-card based solution for the smart card for the ultrabooks,Philipp Offermann,03/21/2013 12:06 pm
+1737,Task,New,4.00,Normal,fix firefox sync on ldd,Micha?? Adamski,03/21/2013 12:06 pm
+1728,Bug,Closed,"",High,Grey box visible top left when loggin in,"",03/12/2013 03:12 pm
+1698,Task,New,100.00,Normal,[USB] User is able to browse delete and upload files to sharepoint / webdav,"",03/21/2013 12:06 pm
+1697,Task,In Progress,"",Normal,[Sharepoint] Design Umsetzung,Tobias Hellmann,03/21/2013 12:06 pm
+1692,Task,New,3.00,Normal,[Settings] Monitor Flows,"",03/20/2013 11:45 am
+1574,Feature,New,24.00,Normal,[Market research] Integrated support,"",03/20/2013 11:57 am
+1571,Task,New,"",Normal,[Download Proxy] replace WebDav with an Upload/ Download server ,Philipp Offermann,03/21/2013 12:06 pm
+971,Task,New,24.00,Normal,Change Password,"",03/20/2013 12:00 pm
+862,Task,Closed,"",Normal,Palm Detection,Uwe Doering,03/21/2013 12:08 pm
+760,Task,New,"",Low,Quicksearch: Angebotene Suchmaschinen anpassen.,Micha?? Adamski,03/21/2013 12:06 pm

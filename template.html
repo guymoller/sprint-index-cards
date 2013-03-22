@@ -1,0 +1,41 @@
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		table{border:3px solid;
+		 width: 500px;
+		 height: 200px;
+		 font-size: 20px;
+		 margin-bottom: 10px;
+		 }
+		tr.header-row{height:50px;}
+		tr.main-row{height:200px; font-size: 32px}
+		tr.footer-row{height:50px;}
+		.red{color:red}
+
+	</style>
+    <style type="text/css">
+ 
+    @media print {
+ .page-break  { display: block; page-break-after: always; }
+}
+    </style>
+</head>
+<body>
+	{% for index,row in records %}
+		
+		<!-- <div class="page-break"> -->
+		<table{% if index % 3 == 0%} class="page-break"{% endif %}><!-- index is {{ index }} condition is {{index % 2 }}-->
+			<tr class="header-row">
+		       <td class="red">#{{ row.0 }}</td><!--issue nr-->
+		       <td class="red">{{ row.3 }}h</td><!--estimation-->
+			</tr>
+		<tr class="main-row"><td>{{ row.5 }}</td><!--subject--></tr>
+			<tr class="footer-row">
+		       <td class="red">{{ row.6 }}</td><!--assigne--> 
+			</tr>
+        </table>
+       
+	{% endfor %}
+</body>
+</html>
