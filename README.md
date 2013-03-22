@@ -8,3 +8,7 @@ python sprint_index_cards.py
 
 dependenices:
 jinja2 (template engine for python)
+
+![Sample Index Card](llal "Sample Index Card")
+
+
