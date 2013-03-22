@@ -9,6 +9,6 @@ python sprint_index_cards.py
 dependenices:
 jinja2 (template engine for python)
 
-![Sample Index Card](llal "Sample Index Card")
+![Sample Index Card](index-card-sample.png "Sample Index Card")
 
 
